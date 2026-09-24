@@ -2,3 +2,7 @@ this is some important information.
 
 
 this is some text in my_new_branch
+
+
+this is a line I'm adding in my main branch
+
